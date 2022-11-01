@@ -1,0 +1,64 @@
+body {
+  background-color: #BBE1FA;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: #3282B8;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #019267;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #F56D91;
+}
+
+hr {
+  border-style: dashed none none;
+  border-color: black;
+  border-width: 2px;
+  height: 0;
+  width: 60%;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #1C6DD0;
+}
+
+a:hover {
+  color: #FF1E1E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+.Mintu-img {
+  width: 25%;
+}
+
+.Hobbies-block {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.skills-block {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.Skills {
+  text-align: left;
+}
+
+.social-media {
+  margin: 10px 20px;
+  font-size: 2rem;
+}
